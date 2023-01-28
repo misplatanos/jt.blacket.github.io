@@ -3,6 +3,14 @@ html {
   font-size: 20px;
 }
 
+#about {
+  background-color: #1b1b1b;
+}
+
+footer {
+  background-color: #1b1b1b
+}
+
 ul {
   background: red;
   padding: 10px;
